@@ -7,6 +7,7 @@ public class GitClass {
 		System.out.println("Initializing after merging........");
 		System.out.println("Under Development Branch...");
 		System.out.println("Under Development1 Branch...");
+		System.out.println("Running through jenkins...");
 
 	}
 
